@@ -1,13 +1,11 @@
-# nba_player_shotchart
-* Contains files for final project in Data 440 - Spatial Data Discovery 
-* A more aesthtically pleasing view of the project can be found on the classes project [website](https://spatial-data-discovery.github.io/project-rhan9.html)
-
 ## README
-* Updated: 5/07/2020
+* Updated: 11/03/2020
 * Name: Ryan Han
 * Github: rhan9
 * Class: Data 440 - Spatial Data Discovery
 * Topic: Final Project
+* Contains files for final project in Data 440 - Spatial Data Discovery 
+* A more aesthtically pleasing view of the project can be found on the classes project [website](https://spatial-data-discovery.github.io/project-rhan9.html)
 
 ### Files
 
