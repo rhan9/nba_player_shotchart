@@ -1,19 +1,19 @@
 # nba_player_shotchart
 Contains files for final project in Data 440 - Spatial Data Discovery 
 
-# README
+## README
 * Updated: 5/07/2020
 * Name: Ryan Han
 * Github: rhan9
 * Class: Data 440 - Spatial Data Discovery
 * Topic: Final Project
 
-## Files
+### Files
 
-### process.txt
+#### process.txt
 * Process of how project developed
 
-### player_shotchart.py
+#### player_shotchart.py
 * This script asks for a player's full name, team, and a specific year. Once inputted, the script will access NBA game statistics through the nba_api and produce a detailed Pandas dataframe of regular season field goal attempts by the specified player during the specified NBA year.
 
 * Variables created:
@@ -47,17 +47,20 @@ Contains files for final project in Data 440 - Spatial Data Discovery
 * Output:
     * A Pandas Dataframe with columns for 'id', 'name', 'team_id', 'team_name', 'shot_zone_basic', 'shot_zone_area', 'shot_zone_range', 'shot_distance', 'x', 'y','shot_made', 'game_date'
 
-### README.md
+#### README.md
 * This Readme file.
-
-### shotchartoutput.ipynb
+#### project_rhan9.Rmd
+* R Markdown file that explains the project, describes the date and visualization process. 
+#### shotchartoutput.ipynb
 * Example jupyter notebook file that shows pandas dataframe output after player_shotchart.py was run and above 'example' inputted.
 
-## Data Scources
+
+### Data Scources
 * https://github.com/swar/nba_api
 * https://stats.nba.com/player/203507/
 * https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/shotchartdetail.md
-### Data Attribution
+
+#### Data Attribution
 * Description: I used the API Client package “nba_api”, to access my data. Nba_api is an API Client for www.nba.com and contains various api endpoints that can provide nba data to the user.
 * Specifically I used the endpoint ‘shotchartdetail’ to access my data. Shotchardetail allowed me to access NBA stats data,that had recorded shot locations as longitude (X) latitude (Y) values for every shot a player took during a specific NBA regular season.
 * Data Origin:
