@@ -1,6 +1,6 @@
 # nba_player_shotchart
 * Contains files for final project in Data 440 - Spatial Data Discovery 
-* A more aesthtically pleasing view of the project can be found on the classes project [website]file:///C:/Users/ryanh/Repositories/spatial-data-discovery.github.io/project_rhan9.html
+* A more aesthtically pleasing view of the project can be found on the classes project [website](file:///C:/Users/ryanh/Repositories/spatial-data-discovery.github.io/project_rhan9.html)
 
 ## README
 * Updated: 5/07/2020
