@@ -4,7 +4,7 @@
 * Class: Data 440 - Spatial Data Discovery
 * Topic: Final Project - Rise of a Superstar
 * Contains files for visualizing nba player shot charts. 
-* A more aesthtically pleasing view of the project can be found on the class's project [website](https://spatial-data-discovery.github.io/project-rhan9.html)
+* A more aesthtically pleasing version can be found on the class's project [website](https://spatial-data-discovery.github.io/project-rhan9.html)
 
 ### Files
 
