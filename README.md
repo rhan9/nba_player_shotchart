@@ -1,5 +1,6 @@
 # nba_player_shotchart
-Contains files for final project in Data 440 - Spatial Data Discovery 
+* Contains files for final project in Data 440 - Spatial Data Discovery 
+* A more aesthtically pleasing view of the project can be found on the classes project [website](file:///C:/Users/ryanh/Repositories/spatial-data-discovery.github.io/project_rhan9.html)
 
 ## README
 * Updated: 5/07/2020
@@ -42,6 +43,8 @@ Contains files for final project in Data 440 - Spatial Data Discovery
 * R Markdown file that explains the project, describes the date and visualization process. 
 #### shotchartoutput.ipynb
 * Example jupyter notebook file that shows pandas dataframe output after player_shotchart.py was run and above 'example' inputted.
+#### playershotchart.ipynb
+* Example jupyter notebook file that shows how the final shot charts will look. 
 
 
 ### Data Scources
