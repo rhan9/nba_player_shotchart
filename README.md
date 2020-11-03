@@ -16,17 +16,6 @@ Contains files for final project in Data 440 - Spatial Data Discovery
 #### player_shotchart.py
 * This script asks for a player's full name, team, and a specific year. Once inputted, the script will access NBA game statistics through the nba_api and produce a detailed Pandas dataframe of regular season field goal attempts by the specified player during the specified NBA year.
 
-* Variables created:
-    * fullname
-    * teamname
-    * year
-    * player
-    * team
-    * stats
-    * shots_df
-    * shotchart_df
-    * shotchart
-
 * Imports needed:
     * from nba_api.stats.static import players
     * from nba_api.stats.static import teams
